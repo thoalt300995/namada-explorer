@@ -31,3 +31,5 @@ cd namada-explorer
 yarn build
 yarn dev
 ```
+
+## Public key : tpknam1qrveul6tl5d3hm7pu57p6u94jy68yav4jpcvdq3jauldy030uqpy5qje5fv

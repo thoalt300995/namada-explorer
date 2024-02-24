@@ -1,5 +1,7 @@
 `Namada-explorer` is a disposable light explorer for Namada blockchains.
 
+Live : https://namada-explorer.thoalt.com/
+
 ## Features
 
 - The ability to connect to RPC
